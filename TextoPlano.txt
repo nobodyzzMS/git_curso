@@ -5,3 +5,4 @@ Segundo commit para el ejemplo
 
 Cuarto commit para la rama correciones
 Quinta línea en el editor de texto VSC
+Cualquier cambio que hagamos se tiene que hacer pull en git local
