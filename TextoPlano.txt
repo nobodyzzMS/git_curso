@@ -3,3 +3,5 @@ cuerpo del texto
 Final del texto. 
 Segundo commit para el ejemplo
 Tercer ejemplo para commit
+Cuarto commit para la rama correciones
+Quinta línea en el editor de texto VSC
